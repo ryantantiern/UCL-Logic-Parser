@@ -1,0 +1,17 @@
+AyX[xy] 2 2 0 0 1 1 0 0 0
+Ex-X[xx] 2 2 1 1 0 0 0 0 1
+AxEyX[xy] 3 3 0 0 1 2 2 1 0 1 2
+Ax(X[xx]>Ey-X[xy]) 3 4 0 1 1 1 1 0 1 2 1 1 1
+(X[xy]vX[yx]) 2 1 0 0 0 0 0 
+(X[xy]vX[yx]) 2 1 0 0 0 1 0 
+
+In this sample file, on the first line, the first entry AyX[xy], is the formula
+The next entry,2 is the number of nodes
+Then next entry, 2 is the number of edges
+The next four entries specify the edges (0,0), (0,1).
+From last 3 entries, the variable assignment maps x to 0, y to 0 and z to 0. 
+
+On the second line we specify the second formula and graph.
+The formula is Ex-X[xx]. It has 2 nodes, 2 edges, the edges are (1,1), (0,0) and the variable assignment maps x, y, z to 0, 0, 1.
+
+The remaining four lines specify 4 different formulas, graphs, variable assignments.

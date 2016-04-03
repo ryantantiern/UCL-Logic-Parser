@@ -1,0 +1,34 @@
+AxEyX[xy] is a universal formula.  The formula AxEyX[xy] is true in G under W 1
+AxEyX[yx] is a universal formula.  The formula AxEyX[yx] is false in G under W 0 
+(X[xy]>-X[yx]) is a binary connective formula.  The formula (X[xy]>-X[yx]) is true in G under W 1
+(X[xy]>-X[yx]) is a binary connective formula.  The formula (X[xy]>-X[yx]) is true in G under W 1
+(X[xy]>-X[yx]) is a binary connective formula.  The formula (X[xy]>-X[yx]) is false in G under W 0
+(ExAyX[yx]>AxEyX[xy]) is a binary connective formula.  The formula (ExAyX[yx]>AxEyX[xy]) is true in G under W 1
+ExEy(X[xy]^Ex(X[yx]^Ey(X[xy]^ExX[yx]))) is an existential formula.  The formula ExEy(X[xy]^Ex(X[yx]^Ey(X[xy]^ExX[yx]))) is true in G under W 1
+ExEy(X[xy]^Ex(X[yx]^Ey(X[xy]^ExX[yx]))) is an existential formula.  The formula ExEy(X[xy]^Ex(X[yx]^Ey(X[xy]^ExX[yx]))) is false in G under W 0
+AyX[yz] is a universal formula.  The formula AyX[yz] is true in G under W 1
+ExAyX[yx] is an existential formula.  The formula ExAyX[yx] is true in G under W 1
+ExEyEz((X[yx]^X[zx])^X[yz]) is an existential formula.  The formula ExEyEz((X[yx]^X[zx])^X[yz]) is true in G under W 1
+ExEyEz((X[yx]^X[zx])^X[yz]) is an existential formula.  The formula ExEyEz((X[yx]^X[zx])^X[yz]) is false in G under W 0
+ExEy(AzX[zx]^AzX[zy]) is an existential formula.  The formula ExEy(AzX[zx]^AzX[zy]) is true in G under W 1
+ExEyAz(X[zx]^X[zy]) is an existential formula.  The formula ExEyAz(X[zx]^X[zy]) is true in G under W 1
+Ax(EyX[xy]vX[zx]) is a universal formula.  The formula Ax(EyX[xy]vX[zx]) is true in G under W 1
+Ex((X[xx]^X[xy])^X[xz]) is an existential formula.  The formula Ex((X[xx]^X[xy])^X[xz]) is true in G under W 1
+Ex((X[xx]^X[xy])^X[xz]) is an existential formula.  The formula Ex((X[xx]^X[xy])^X[xz]) is false in G under W 0 
+X[xy] is an atomic formula.  The formula X[xy] is true in G under W 1
+-X[xy] is a negated formula.  The formula -X[xy] is false in G under W 0 
+(X[xy]^X[xy]) is a binary connective formula.  The formula (X[xy]^X[xy]) is true in G under W 1 
+(X[xy]^-X[xy]) is a binary connective formula.  The formula (X[xy]^-X[xy]) is false in G under W 0
+(X[xy]v-X[xy]) is a binary connective formula.  The formula (X[xy]v-X[xy]) is true in G under W 1
+(X[xy]>-X[yx]) is a binary connective formula.  The formula (X[xy]>-X[yx]) is true in G under W 1
+ExX[xy] is an existential formula.  The formula ExX[xy] is true in G under W 1
+ExX[xy] is an existential formula.  The formula ExX[xy] is false in G under W 0
+-AxX[xy] is a negated formula.  The formula -AxX[xy] is true in G under W 1
+AxX[xy] is a universal formula.  The formula AxX[xy] is false in G under W 0 
+EyX[zz] is an existential formula.  The formula EyX[zz] is true in G under W 1
+ExEyX[xy] is an existential formula.  The formula ExEyX[xy] is true in G under W 1
+AxEyX[xy] is a universal formula.  The formula AxEyX[xy] is true in G under W 1
+AxEyX[yx] is a universal formula.  The formula AxEyX[yx] is false in G under W 0 
+ExAyX[yx] is an existential formula.  The formula ExAyX[yx] is true in G under W 1
+(X[xy]>-X[yx]) is a binary connective formula.  The formula (X[xy]>-X[yx]) is true in G under W 1
+(X[xy]>-X[yx]) is a binary connective formula.  The formula (X[xy]>-X[yx]) is true in G under W 1
